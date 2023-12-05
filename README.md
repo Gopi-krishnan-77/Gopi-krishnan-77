@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/bgopikrish50125" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/bgopikrish50125?logo=twitter&style=for-the-badge" alt="https://twitter.com/bgopikrish50125" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development / Solidity**
+- 🌱 I’m currently learning **Solidity**
 
 - 📫 How to reach me **gopikrishnanb2003@gmail.com**
 
