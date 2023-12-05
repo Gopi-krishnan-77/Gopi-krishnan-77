@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopi-krishnan-77" alt="gopi-krishnan-77" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/bgopikrish50125" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/bgopikrish50125?logo=twitter&style=for-the-badge" alt="https://twitter.com/bgopikrish50125" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bgopikrish50125" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/bgopikrish50125?logo=twitter&style=for-the-badge" alt="https://twitter.com/bgopikrish50125" /></a> </p>
 
 - 🌱 I’m currently learning **Solidity**
 
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/gopikrishnan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/gopikrishnan77" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/bgopikrish50125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/bgopikrish50125" height="30" width="40" /></a>
+<a href="https://dev.to/gopikrishnan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/gopikrishnan77" height="30" width="40" /></a>
+<a href="https://twitter.com/bgopikrish50125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/bgopikrish50125" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gopikrishnanbalagopal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gopikrishnanbalagopal/" height="30" width="40" /></a>
 <a href="https://instagram.com/gopi.krishnan.b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gopi.krishnan.b" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/gopikrishnanb201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/gopikrishnanb201" height="30" width="40" /></a>
