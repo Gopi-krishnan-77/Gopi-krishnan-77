@@ -16,6 +16,13 @@
 
 ---
 
+### 🌐 Portfolio  
+Check out my personal portfolio website where I showcase my projects, skills, and experiences:  
+
+👉 **[www.gopikrishnanb.co.in](http://www.gopikrishnanb.co.in/)**  
+
+---
+
 ### 🌐 Connect with me  
 <p align="left">
 <a href="https://dev.to/gopikrishnan77" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a>
